@@ -1,0 +1,40 @@
+    {
+      "idx": 1, //用你的songlist中的下一个数字替代这一项并删除此注释
+      "id": "luminescence",
+      "title_localized": {
+        "en": "Luminescence"
+      },
+      "artist": "Fomiki & Cloudie",
+      "bpm": "184",
+      "bpm_base": 184,
+      "set": "single",
+      "category": "musicgames",
+      "purchase": "",
+      "audioPreview": 106823,
+      "audioPreviewEnd": 119541,
+      "side": 1,
+      "bg": "df_unlock_city_fireworks",
+      "date": 1487980900,
+      "version": "6.10",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "lzwd",
+          "jacketDesigner": "子狼",
+          "rating": 4
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "lzwd",
+          "jacketDesigner": "子狼",
+          "rating": 9
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "lzwd",
+          "jacketDesigner": "子狼",
+          "rating": 10,
+          "ratingPlus": true
+        }
+      ]
+    }
