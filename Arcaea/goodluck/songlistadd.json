@@ -1,5 +1,4 @@
     {
-      "idx": 1, 
       "id": "goodluck",
       "title_localized": {
         "en": "Good Luck! (Haocore Mix)"
@@ -46,4 +45,5 @@
           "bg_inverse": "byd_2_light"
         }
       ]
+
     }
