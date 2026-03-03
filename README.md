@@ -19,3 +19,14 @@ Now there are charts archived (or about to add due to some simple reasons), char
 |*Testify Story|void (Morunfinale)|ETR Lv.8+/AT Lv.15|15.8(new)|26, Jun, 2025|The first chart after the gaokao, when I first played Arcaea and impressed by this FANTASTIC song and its IMPRESSIVE stories.|
 |*Lava Chicken|Hyper Potions|SP Lv.?|17.4|4, July, 2025|What? This crazy electronic piece of music is from MINECRAFT?   A special chart with crazy motions that make you hard to read~|
 |Testify|void (Morunfinale) feat. 星熊南巫|Legacy Lv.17|17.3|22, Aug, 2025|Just because I don't know how to play Testify Beyond 12, so I white this...|
+
+## Arcaea
+note: this page may be updated before bilibili.
+|Song  name|Composer|Dificultty|Self-constant|Publish-data|Description|
+|Lunimiscence|米虾Fomiki & 初云Cloudie|Precent 9|9.4|30, Nov, 2025|My second aff chart. Lunimescence is my favorite.|
+|Lunimiscence|米虾Fomiki & 初云Cloudie|Future 10+|10.7|Not published yet|My first aff chart. Lunimescence is my favorite.|
+|Lost Civilization|Laur vs CK|Beyong ?|None|3, Feb, 2026|Special. Owerwhelmed with arcs like crowbars.|
+|好运来 (Haocore Mix)|Yearly年利 vs StartDoge始犬|Past 6|6.5|16, Feb, 2026|New Suhri wish you Happy New Year!!!|
+|好运来 (Haocore Mix)|Yearly年利 vs StartDoge始犬|Present 9|9.6|16, Feb, 2026|Suhri祝大家新年快乐！|
+|好运来 (Haocore Mix)|Yearly年利 vs StartDoge始犬|Future 10+|10.8|16, Feb, 2026|Snake runs up and down, just like fireworks in the sky. Wish you become better this year!|
+|好运来 (Haocore Mix)|Yearly年利 vs StartDoge始犬|Beyond 11|11.4|16, Feb, 2026|Multi tech is examed. Wish you get more this year!
