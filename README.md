@@ -29,9 +29,9 @@ note: this page may be updated before bilibili.
 |Lost Civilization|Laur vs CK|Beyong ?|None|3, Feb, 2026|Special. Owerwhelmed with arcs like crowbars.|
 |好运来 (Haocore Mix)|Yearly年利 vs StartDoge始犬|Past 6|6.5|16, Feb, 2026|New Suhri wish you Happy New Year!!!|
 |好运来 (Haocore Mix)|Yearly年利 vs StartDoge始犬|Present 9|9.6|16, Feb, 2026|Suhri祝大家新年快乐！|
-|好运来 (Haocore Mix)|Yearly年利 vs StartDoge始犬|Future 10+|10.8|16, Feb, 2026|Snake runs up and down, just like fireworks in the sky. Wish you become better this year!|
+|*好运来 (Haocore Mix)|Yearly年利 vs StartDoge始犬|Future 10+|10.8|16, Feb, 2026|Snake runs up and down, just like fireworks in the sky. Wish you become better this year!|
 |好运来 (Haocore Mix)|Yearly年利 vs StartDoge始犬|Beyond 11|11.4|16, Feb, 2026|Multi tech is examed. Wish you get more this year!|
-|Testify|void (Morunfinale) feat. 星熊南巫|Eternal 11|11.3(temp.)|Not published yet|Let me forget everthing still moonlight shines on us|
+|*Testify|void (Morunfinale) feat. 星熊南巫|Eternal 11|11.3(temp.)|Not published yet|Let me forget everthing still moonlight shines on us|
 
 ### What belongs to me?
 The rpe and aff chart files' structures are not designed by me, and the music & illustration are create by other artists. What the license dominates are the note design and the chart itself.
