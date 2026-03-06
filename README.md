@@ -26,7 +26,7 @@ note: this page may be updated before bilibili.
 |---|---|---|---|---|---|
 |Lunimiscence|米虾Fomiki & 初云Cloudie|Precent 9|9.4|30, Nov, 2025|My second aff chart. Lunimescence is my favorite.|
 |Lunimiscence|米虾Fomiki & 初云Cloudie|Future 10+|10.7|Not published yet|My first aff chart. Lunimescence is my favorite.|
-|Lost Civilization|Laur vs CK|Beyong ?|None|3, Feb, 2026|Special. Owerwhelmed with arcs like crowbars.|
+|Lost Civilization|Laur vs CK|Beyond ?|None|3, Feb, 2026|Special. Owerwhelmed with arcs like crowbars.|
 |好运来 (Haocore Mix)|Yearly年利 vs StartDoge始犬|Past 6|6.5|16, Feb, 2026|New Suhri wish you Happy New Year!!!|
 |好运来 (Haocore Mix)|Yearly年利 vs StartDoge始犬|Present 9|9.6|16, Feb, 2026|Suhri祝大家新年快乐！|
 |*好运来 (Haocore Mix)|Yearly年利 vs StartDoge始犬|Future 10+|10.8|16, Feb, 2026|Snake runs up and down, just like fireworks in the sky. Wish you become better this year!|
