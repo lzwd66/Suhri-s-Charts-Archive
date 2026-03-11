@@ -4,7 +4,7 @@ Archived my Arcaea and Phigros fan-made charts files here. All contents without 
 Now there are charts archived (or about to add due to some simple reasons), charts with '*' are my representitive works
 
 ## Phigros
-|Song  name|Composer|Dificultty|Self-constant|Publish-data|Description|
+|Title|Composer|Dificultty|Self-constant|Publish-data|Description|
 |---|---|---|---|---|---|
 |Alpha|C418|SH Lv.16|None|certain day in 2022|My first fanmade chart. It witnessed a new attempt for a new rhythm world. ~~But a bit little s**t~~|
 |Otherside|Lena Raine|SH Lv.16|None|certain day in 2023|second. Improved but not so much.|
@@ -22,7 +22,7 @@ Now there are charts archived (or about to add due to some simple reasons), char
 
 ## Arcaea
 note: this page may be updated before bilibili.
-|Song  name|Composer|Dificultty|Self-constant|Publish-data|Description|
+|Title|Composer|Dificultty|Self-constant|Publish-data|Description|
 |---|---|---|---|---|---|
 |Lunimiscence|米虾Fomiki & 初云Cloudie|Precent 9|9.4|30, Nov, 2025|My second aff chart. Lunimescence is my favorite.|
 |Lunimiscence|米虾Fomiki & 初云Cloudie|Future 10+|10.7|Not published yet|My first aff chart. Lunimescence is my favorite.|
