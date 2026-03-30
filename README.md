@@ -20,6 +20,9 @@ Now there are charts archived (or about to add due to some simple reasons), char
 |*Lava Chicken|Hyper Potions|SP Lv.?|17.4|4, July, 2025|What? This crazy electronic piece of music is from MINECRAFT?   A special chart with crazy motions that make you hard to read~|
 |Testify|void (Morunfinale) feat. 星熊南巫|Legacy Lv.17|17.3|22, Aug, 2025|Just because I don't know how to play Testify Beyond 12, so I white this...|
 
+### How to use?
+Playing Phigros fanmade charts is very easy. Just import them into any simulators.
+
 ## Arcaea
 note: this page may be updated before bilibili.
 |Title|Composer|Dificultty|Self-constant|Publish-data|Description|
@@ -36,3 +39,6 @@ note: this page may be updated before bilibili.
 
 ### What belongs to me?
 The rpe and aff chart files' structures are not designed by me, and the music & illustration are create by other artists. What the license dominates are the note design and the chart itself.
+
+### How to use?
+To import my charts, you should have learnt some basic knowledge about how to import self-made charts for Arcaea apk. Then u can copy the `songlistadd.json` files provided by the repo to your main songlist file (I know make a perfect songlist file is extremely hard!!!).
