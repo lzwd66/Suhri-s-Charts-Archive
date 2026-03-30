@@ -1,5 +1,4 @@
     {
-      "idx": 1, //用你的songlist中的下一个数字替代这一项并删除此注释
       "id": "luminescence",
       "title_localized": {
         "en": "Luminescence"
@@ -13,7 +12,7 @@
       "audioPreview": 106823,
       "audioPreviewEnd": 119541,
       "side": 1,
-      "bg": "df_unlock_city_fireworks",
+      "bg": "luminescence",
       "date": 1487980900,
       "version": "6.10",
       "difficulties": [

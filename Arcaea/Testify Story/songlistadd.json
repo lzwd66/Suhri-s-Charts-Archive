@@ -1,0 +1,39 @@
+    {
+      "id": "testifystory",
+      "title_localized": {
+        "en": "Testify Story"
+      },
+      "artist": "void (Mournfinale)",
+      "bpm": "120",
+      "bpm_base": 120,
+      "set": "epilogue",
+      "purchase": "",
+      "audioPreview": 90000,
+      "audioPreviewEnd": 114000,
+      "side": 2,
+      "bg": "epilogue",
+      "date": 1657100000,
+      "version": "6.13",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 3,
+          "hidden_until": "always"
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 6,
+          "hidden_until": "always"
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "SSSSSSSSSSuioxHrun",
+          "jacketDesigner": "",
+          "rating": 0
+        }
+      ]
+    }

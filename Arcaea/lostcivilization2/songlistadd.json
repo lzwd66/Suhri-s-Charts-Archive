@@ -1,0 +1,70 @@
+    {
+      "id": "lostcivilization2",
+      "title_localized": {
+        "en": "Lost Civilization"
+      },
+      "artist": "Laur vs CK",
+      "search_title": {
+        "ja": [
+          "ろすとしびらいぜーしょん",
+          "ろすとしゔぃらいぜーしょん"
+        ],
+        "ko": [
+          "로스트 시빌리제이션"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "らうる",
+          "しーけー"
+        ],
+        "ko": [
+          "라우르",
+          "시케이"
+        ]
+      },
+      "bpm": "75 - 210",
+      "bpm_base": 210,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 81142,
+      "audioPreviewEnd": 110285,
+      "side": 1,
+      "bg": "base_conflict",
+      "bg_inverse": "base_light",
+      "date": 1487980808,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "Toaster",
+          "jacketDesigner": "",
+          "rating": 4,
+          "hidden_until": "always"
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "Toaster",
+          "jacketDesigner": "",
+          "rating": 7,
+          "hidden_until": "always"
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Toaster",
+          "jacketDesigner": "",
+          "rating": 9,
+          "hidden_until": "always"
+        },
+        {
+          "ratingClass": 3,
+          "chartDesigner": "Lost Suhri",
+          "jacketDesigner": "みしゃも + yoshimo",
+          "jacketOverride": true,
+          "rating": 15,
+          "ratingPlus": true,
+          "date": 1620691201,
+          "version": "3.6"
+        }
+      ]
+    }
